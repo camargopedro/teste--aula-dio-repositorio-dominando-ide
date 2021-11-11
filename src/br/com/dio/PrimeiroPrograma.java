@@ -12,7 +12,7 @@ public class PrimeiroPrograma {
 		System.out.println(gato);
 		System.out.println(livros);
 		
-		/*int a = 3;
+		/*int a = 5;
 		int b = 5;
 		System.out.println("Hello World! " + (a+b));*/
 	}
